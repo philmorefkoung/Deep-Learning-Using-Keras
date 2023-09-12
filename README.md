@@ -1,2 +1,2 @@
 # watchid
-Identifying Rolex's Top 3 Models Using RNN
+Identifying Rolex's Top 3 Models Using Convolutional Neural Networks
